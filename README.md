@@ -94,7 +94,9 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 
 ## Training Loss Vs Iteration Plot:
 <img width="452" height="329" alt="image" src="https://github.com/user-attachments/assets/6d587d86-c327-46a3-b4b7-90a22c75bdca" />
+
 ## New Sample Data Prediction:
 Prediction: 32.45441818237305
+
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
